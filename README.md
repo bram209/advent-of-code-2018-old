@@ -1,12 +1,9 @@
-# hello-reason
+# advent-of-reasonml
 
 [![Build status](https://ci.appveyor.com/api/projects/status/clqxyx5ohadbjkcw/branch/master?svg=true)](https://ci.appveyor.com/project/esy/hello-reason/branch/master)
 [![Build Status](https://travis-ci.org/esy-ocaml/hello-reason.svg?branch=master)](https://travis-ci.org/esy-ocaml/hello-reason)
 
-A project which demonstrates a Reason workflow with [Esy][].
-
-[Esy]: https://github.com/esy-ocaml/esy
-
+Advent of code solutions in reasonml
 
 ## Usage
 

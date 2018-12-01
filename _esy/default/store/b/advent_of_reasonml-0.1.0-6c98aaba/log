@@ -1,0 +1,5 @@
+# dune build -p advent-of-reasonml
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dunecae92b.output 2> /dev/null
+$ /home/bram/.esy/3_____________________________________________________________________/i/opam__s__ocamlfind-1.8.0-b93b43d4/bin/ocamlfind printconf path > /tmp/dune70bf73.output
+$ /home/bram/.esy/3_____________________________________________________________________/i/ocaml-4.6.9-ff9c6a38/bin/ocamlc.opt -config > /tmp/dune63603c.output

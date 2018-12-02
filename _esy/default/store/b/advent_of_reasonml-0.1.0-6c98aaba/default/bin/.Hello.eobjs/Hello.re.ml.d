@@ -1,1 +1,1 @@
-bin/Hello.re.ml: Lib Lwt_main
+bin/Hello.re.ml: Lib
